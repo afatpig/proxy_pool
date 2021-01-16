@@ -27,6 +27,12 @@ ProxyPool 爬虫代理IP池
 
 * 测试地址: http://118.24.52.95 (单机勿压)
 
+### 修改说明
+
+fork from https://github.com/jhao104/proxy_pool.git
+
+添加了一些IP池来源：
+
 
 ### 运行项目
 
